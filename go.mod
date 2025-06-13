@@ -1,6 +1,6 @@
-module github.com/google/go-licenses/v2
+module github.com/Shubhranshu153/go-licenses/v2
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.2
 
